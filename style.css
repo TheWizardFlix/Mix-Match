@@ -1,0 +1,10 @@
+@font-face {
+    font-family: MYFONT;
+    src: url(aAnotherTag.otf);
+}
+
+
+.par1 {
+    font-family: MYFONT, sans-serif;
+}
+
