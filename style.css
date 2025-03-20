@@ -12,6 +12,7 @@ body {
   font-family: myFirstFont, san-serif;
 }
 .par1 {
+
   color: #bb1e1e;
 font: bold;
 }
@@ -19,4 +20,5 @@ font: bold;
 .par2 {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: #0c10d4;
+  text-shadow: 2px 2px;
 }
